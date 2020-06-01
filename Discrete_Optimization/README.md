@@ -13,4 +13,6 @@ pip install jmetalpy
 
 !curl http://www.math.uwaterloo.ca/tsp/world/qa194.tsp -o qa194.tsp
 
-## Creating Genetic Algorithm class 
+## Creating Travelling Salesman Problem class 
+
+> Here
