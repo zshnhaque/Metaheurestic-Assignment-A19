@@ -13,6 +13,7 @@ pip install jmetalpy
 
 !curl http://www.math.uwaterloo.ca/tsp/world/qa194.tsp -o qa194.tsp
 
-## Creating Travelling Salesman Problem class 
+## Creating Travelling Salesman Problem class (for Symmetric TSP)
 
-> Here
+> Here, .tsp file is read 
+> Distance Matrix is computed which is fed to GA Function.
