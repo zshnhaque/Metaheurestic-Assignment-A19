@@ -6,7 +6,7 @@ One can install pygmo on cmd, anaconda or google colab using -
 
 pip install pygmo
 
-## Class Shifted Ackley creates F1 problem and it takes Dimension (D) as arguement, D = 50 or 500
+## Class Shifted Ackley creates F6 problem and it takes Dimension (D) as arguement, D = 50 or 500
 
 ## To find best solution for a problem.
 1. Create problem object using problem class
