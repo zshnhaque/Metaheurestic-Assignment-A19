@@ -17,3 +17,11 @@ pip install jmetalpy
 
 Here, .tsp file is read .
 <br/>Distance Matrix is computed which is fed to GA Function.
+
+## Solving TSP problem using Genetic Algorithm
+
+Call the function 'calc_tsp_ga' which takes arguments -
+1. File location for .tsp file
+2. Population Size
+3. Offspring Population Size
+4. maximum number of evaluations
