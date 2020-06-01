@@ -16,4 +16,4 @@ pip install jmetalpy
 ## Creating Travelling Salesman Problem class (for Symmetric TSP)
 
 Here, .tsp file is read .
-<>Distance Matrix is computed which is fed to GA Function.
+<br/>Distance Matrix is computed which is fed to GA Function.
